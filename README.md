@@ -1,5 +1,9 @@
 # gRPC Ping Pong
 
+gRPC is a high performance, open-source universal RPC framework that can help make your 
+Python services blazing fast.  This is a bare bones example of creating and using a gRPC 
+ping-pong service and client.
+
 ## Running
 
 - `pip install -r requirements.txt --user`
