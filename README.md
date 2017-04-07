@@ -7,11 +7,17 @@ ping-pong service and client.
 ## Installing
 
 cd grpc-ping-pong/
+
 sudo apt-get install pip
+
 sudo apt-get install python-virtualenv
+
 virtualenv venv
+
 source venv/bin/activate
+
 python -m pip install grpcio
+
 python -m pip install grpcio-tools
 
 ## Running
